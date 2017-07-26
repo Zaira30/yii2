@@ -1,7 +1,10 @@
 # yii2
 cruDesenvolva uma API Rest para um sistema gerenciador de tarefas (inclusão/alteração/exclusão). As tarefas consistem em título e descrição, podendo ser ordenadas por prioridade.
 
-Dentro do pasta dump tem o dump da base de dados
+Dentro do pasta dump tem o sql que é só fazer a importação para dentro do mysql.
+
+Aplicação web responsivel
+http://localhost/basic/web/
 
 para retornar API REST
 
